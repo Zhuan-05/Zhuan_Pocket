@@ -1,2 +1,28 @@
-.obsidian/workspace.json
+﻿.obsidian/workspace.json
 .obsidian/workspace-mobile.json
+
+# Image files (too large for version control)
+*.heic
+*.heif
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+
+# Office documents
+*.pdf
+*.xlsx
+*.xls
+*.docx
+*.doc
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
